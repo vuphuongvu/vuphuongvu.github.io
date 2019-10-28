@@ -9789,3 +9789,9 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+.iconvpv {
+  width: 150px;
+  height: 120px;
+  background-image: url("../images/icon.jpg");
+  background-size: cover;
+}

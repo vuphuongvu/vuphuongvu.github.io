@@ -103,6 +103,7 @@ h1, h2, h3, h4, h5,
 		@include media-breakpoint-down(md){
 			color: $white;
 		}
+		
 	}
 
 	.navbar-nav {
@@ -302,10 +303,8 @@ h1, h2, h3, h4, h5,
 	font-size: 20px;
 	// text-transform: uppercase;
 	// letter-spacing: 2px;
+	
 }
-
-
-
 
 .hero-wrap{
 	width: 100%;
